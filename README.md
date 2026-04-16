@@ -24,9 +24,6 @@ Hi, I'm Miheersingh Yashpalsingh Baghele, a passionate Computer Engineering stud
 - style.css
 - script.js
 
-## 📸 Screenshots
-(Add your screenshots here)
-
 ## 📬 Contact
 - Email: rajputmiheersingh0212@gmail.com
 - LinkedIn: https://www.linkedin.com/in/miheersingh-baghele-64520932b
