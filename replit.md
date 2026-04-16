@@ -4,6 +4,10 @@
 
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
 
+## Artifacts
+
+- **portfolio** (`/`) — Personal portfolio website for Miheersingh Yashpalsingh Baghele. React + Vite, dark theme, fully responsive single-page app with Hero, About, Skills, Projects, Contact and Footer sections. Uses framer-motion animations, lucide-react icons, Tailwind CSS.
+
 ## Stack
 
 - **Monorepo tool**: pnpm workspaces
